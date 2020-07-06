@@ -1,4 +1,4 @@
-## A Ethereum Dapp development starter-kit with nextjs ,semantic-ui-react and truffle 
+## A Simple Lottery Ethereum Dapp with nextjs ,semantic-ui-react and truffle 
 
 ### Requirements
 
@@ -51,7 +51,6 @@ change directory to ethereum
 > cd ethereum
 ```
 
-You can see a Storage contract with simple name in it.
 
 Now run the Ganche-Gui app or open new terminal and enter the below command to start ganache-cli
 
@@ -79,16 +78,16 @@ development: {
     },
 ```
 
-Now compile the Storage contract by tyoing the following command in ethereum folder
+Now compile the Lottery contract by typing the following command in ethereum folder
 
 ```bash
 > truffle compile
 ```
 You should see a build folder created in ethereum directory
 
-Now lets deploy the Storage contract to local blockchain by typing the following command.
+Now lets deploy the Lottery contract to local blockchain by typing the following command.
 
-Note: 2_deploy_contracts.js file in migrations folder is the migration script for Storage.sol
+Note: 2_deploy_contracts.js file in migrations folder is the migration script for Lottery.sol
 
 ```bash
 > truffle migrate --reset
@@ -115,7 +114,7 @@ now run the following command in terminal.
 
 Now navigate to this [link](http://localhost:3000/)
 
-You will see a nice navbar, everything you need to get started is injected into the project.
+You will see a nice form like this
 
 Happy Hacking :smiley: 
 
