@@ -12,6 +12,7 @@ check nodejs and npm versions by typing the below command
 ```bash
 > npm -v
 ```
+
 [Metamask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
 
 A google chrome extension to interact with the Dapps
