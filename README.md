@@ -117,9 +117,10 @@ now run the following command in terminal.
 
 Now navigate to this [link](http://localhost:3000/)
 
-You will see a nice form like this
+You will see our Lottery Dapp :blush:
 
 ![LotteryDapp](https://drive.google.com/uc?export=view&id=1LJXDNQ2OkMvxgLYrW6TWn-8azBnGNxkI)
+
 
 Happy Hacking :smiley: 
 
