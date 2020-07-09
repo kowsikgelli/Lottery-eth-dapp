@@ -6,7 +6,7 @@ class Enter extends React.Component{
     state={
         players:[],
         balanceInPool:'',
-        etneredAmount:'',
+        enteredAmount:'',
         loading:false,
         errorMessage:''
     }
